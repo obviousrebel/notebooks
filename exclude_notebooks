@@ -1,5 +1,6 @@
-Kepler_FFI
+interm_tesscut_dss_overlay
 align_multiple_visits
+<<<<<<< HEAD
 align_mosaics
 Initialization
 align_sparse_fields
@@ -8,3 +9,5 @@ DrizzlePac
 TESS
 Kepler
 HSC_TAP
+=======
+>>>>>>> upstream/gh-pages
